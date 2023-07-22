@@ -22,16 +22,18 @@ C. CONTENTS: matlab code
 - RANM_dual: Reweighted Atomic Norm Minimization code dealing with a dual problem
 - RANM_primal: Reweighted Atomic Norm Minimization code dealing with a primal problem
 
+D. Prerequisite software (or solver) to run the MATLAB code: CVX
+http://cvxr.com/cvx/
 
 
-D. REFERENCES:
+E. REFERENCES:
 [1] "Block Iterative Reweighted Algorithms for Super-Resolution of Spectrally Sparse Signals"
 Myung Cho, Kumar Vijay Mishra, Jian-Feng Cai, Weiyu Xu, 
-IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2319ñ2323, 2015.
+IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2319‚Äì2323, 2015.
 
-[2] ìCompressed sensing off the gridî 
+[2] ‚ÄúCompressed sensing off the grid‚Äù 
 G. Tang, B. N. Bhaskar, P. Shah, and B. Recht, 
-IEEE Transactions on Information Theory, vol. 59, no. 11, pp. 7465ñ7490, 2013.
+IEEE Transactions on Information Theory, vol. 59, no. 11, pp. 7465‚Äì7490, 2013.
 
 [3] "Spectral Super-resolution with Prior Knowledge"
 Kumar Vijay Mishra, Myung Cho, Anton Kruger, and Weiyu Xu, 
