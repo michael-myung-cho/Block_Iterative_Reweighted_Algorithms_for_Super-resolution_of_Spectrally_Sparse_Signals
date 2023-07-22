@@ -32,6 +32,8 @@ E. REFERENCES:
 [1] "Block Iterative Reweighted Algorithms for Super-Resolution of Spectrally Sparse Signals"
 Myung Cho, Kumar Vijay Mishra, Jian-Feng Cai, Weiyu Xu, 
 IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2319–2323, 2015.
+https://ieeexplore.ieee.org/document/7268862?arnumber=7268862&searchWithin=%22Authors%22:.QT.Myung%20Cho.QT.&newsearch=true
+
 
 [2] “Compressed sensing off the grid” 
 G. Tang, B. N. Bhaskar, P. Shah, and B. Recht, 
