@@ -22,8 +22,10 @@ C. CONTENTS: matlab code
 - RANM_dual: Reweighted Atomic Norm Minimization code dealing with a dual problem
 - RANM_primal: Reweighted Atomic Norm Minimization code dealing with a primal problem
 
+
 D. Prerequisite software (or solver) to run the MATLAB code: CVX
 http://cvxr.com/cvx/
+
 
 
 E. REFERENCES:
@@ -46,5 +48,5 @@ IEEE Transactions on Signal Processing, vol. 64, no. 4, pp. 995-1006, Feb. 15, F
 
 
 E. CONTECT INFO.: Myung (Michael) Cho 
-- Email: myung-cho@uiowa.edu, michael.myung.cho@gmail.com
-- Homepage: http://user.engineering.uiowa.edu/~myucho/index.htm
+- Email: michael.myung.cho@gmail.com
+- Homepage: https://sites.google.com/view/myungcho/home
